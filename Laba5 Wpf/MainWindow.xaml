@@ -17,7 +17,7 @@
             <MenuItem Header="_Инструменты">
                 <MenuItem Header="_Менеджер пользователей">
                     <MenuItem.Icon>
-                        <Image Source="C:\BIM моделирование\Модуль 1\Visual Studio\WPF\Laba5 Wpf\Laba5 Wpf\Data\team.png"/>
+                        <Image Source="Data\team.png"/>
                     </MenuItem.Icon>
                 </MenuItem>
                 <MenuItem Header="_Показать группы" IsCheckable="True" IsChecked="True"/>
